@@ -1,0 +1,12 @@
+.ListaUl{
+
+    font-size: 1rem;
+    text-align: center;
+    width: auto;
+}
+
+.DivLista{
+    width: auto;
+    display: flex;
+
+}

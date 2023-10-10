@@ -1,0 +1,36 @@
+.DivSeccion{
+    width: auto;
+    height: auto;
+    background-color: rgb(209, 203, 203);
+    display: flex;
+    min-width: 700px;
+    min-height: 400px;
+
+
+}
+
+.DivReceta{
+width:auto;
+height: auto;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction:column;
+
+}
+.DivImagen1{
+
+    width: 80%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+
+}
+.DivLista1{
+display: flex;
+text-align: center;
+justify-content: center;
+
+
+
+}
